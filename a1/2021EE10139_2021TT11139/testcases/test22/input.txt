@@ -1,0 +1,5 @@
+a = b + c + d / e * f - g - h * i - j
+y = a + k
+p = q + r + s + t
+z = a * y + d + y / x - y
+w = a - y * p / z
